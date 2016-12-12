@@ -43163,7 +43163,6 @@
 	  }, {
 	    key: 'render',
 	    value: function render(props, state) {
-	      console.log(props.data);
 	      return _preact2.default.h(
 	        'div',
 	        { id: 'nav', 'class': props.scroll > props.navScroll ? 'sticky z-depth-3' : 'z-depth-0' },
