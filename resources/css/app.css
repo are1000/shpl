@@ -1,0 +1,52 @@
+
+.brand-logo {
+  color: #000 !important;
+  transition: 1s all ease;
+}
+
+.brand-logo-show {
+  opacity: 1;
+}
+
+.brand-logo-hidden {
+  opacity: 0;
+}
+
+#index-banner {
+  height: 94vh;
+}
+
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+.padding-top-150 {
+  padding-top: 150px;
+}
+
+#nav {
+  transition: 1s all ease;
+}
+
+
+#filler {
+  height: 64px;
+}
+
+#logo-img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 300px;
+}
+
+.hidden {
+  display: none;
+  margin: 0 auto;
+}
+
+
